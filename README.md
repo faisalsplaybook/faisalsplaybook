@@ -19,14 +19,14 @@ I love building meaningful apps.
 </p>
 
 ### What I'm currently working on
-* 🎓 **Campus Marketplace** - My first portfolio project! A high-performance app tailored for university students.
+* 🎓 **Campus Marketplace** - My first portfolio project! A verified student Marketplaca App.
 
 ### Documenting my Journey on these platforms
-* 📸 **[Instagram](https://instagram.com/codedathleteexe)** - Watch my daily progress!
-* 💼 **[LinkedIn](https://linkedin.com/in/codedathleteexe)** - Professional updates and learnings.
-* 🎵 **[TikTok](https://tiktok.com/@codedathleteexe)** - Short dev vlogs and tips!
-* 🐦 **[X (Twitter)](https://x.com/codedathleteexe)** - Quick thoughts and tech interactions.
-* 🎥 **[YouTube](https://youtube.com/@codedathleteexe)** - Long-form videos of my coding sessions.
+* 📸 **[Instagram](https://instagram.com/codedathleteexe)** 
+* 💼 **[LinkedIn](https://linkedin.com/in/codedathleteexe)** 
+* 🎵 **[TikTok](https://tiktok.com/@codedathleteexe)** 
+* 🐦 **[X (Twitter)](https://x.com/codedathleteexe)** 
+* 🎥 **[YouTube](https://youtube.com/@codedathleteexe)** 
 
 ### Tech Stack & Skills
 * 💻 **Languages**: Dart (mainly)
