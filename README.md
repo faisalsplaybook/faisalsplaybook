@@ -1,6 +1,6 @@
 # Hey, It's Faisal Hasan 👋
 
-I love building meaningful apps. 
+Build -> Break -> Find why -> Fix -> Repeat
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
@@ -15,13 +15,13 @@ I love building meaningful apps.
 
 ### GitHub Activity
 <p align="left">
-  <img src="https://ghchart.rshah.org/0175C2/codedathleteexe" alt="Faisal's GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/0175C2/faisalsplaybook" alt="Faisal's GitHub Activity Graph" />
 </p>
 
 ### What I'm currently working on
 
 
-### Documenting my Journey on these platforms
+### More me on these platforms
 * 📸 **[Instagram](https://instagram.com/codedathleteexe)** 
 * 💼 **[LinkedIn](https://linkedin.com/in/codedathleteexe)** 
 * 🎵 **[TikTok](https://tiktok.com/@codedathleteexe)** 
@@ -30,11 +30,10 @@ I love building meaningful apps.
 
 ### Tech Stack & Skills
 * 💻 **Languages**: Dart (mainly)
-* 🛠️ **Frameworks/Tools**: Flutter, Firebase, Supabase, Git
+* 🛠️ **Frameworks/Tools**: Flutter, Firebase, Supabase, Git, etc
 * ⚡ **IDE**: Antigravity
 
 ### "Fun" Facts
 * 🍕 I love pizza
 * ☕ I live on coffee
-* 👨‍💻 I learned to build apps after 4 years of studying CS
-* 🏋️‍♂️ I'm documenting my whole process of becoming a Jacked Dev on socials
+* 📸 I make stories out of life
