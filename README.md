@@ -19,14 +19,14 @@ Build -> Break -> Find why -> Fix -> Repeat
 </p>
 
 ### What I'm currently working on
-
+* 🫙 **Null**
 
 ### More me on these platforms
-* 📸 **[Instagram](https://instagram.com/codedathleteexe)** 
-* 💼 **[LinkedIn](https://linkedin.com/in/codedathleteexe)** 
-* 🎵 **[TikTok](https://tiktok.com/@codedathleteexe)** 
-* 🐦 **[X (Twitter)](https://x.com/codedathleteexe)** 
-* 🎥 **[YouTube](https://youtube.com/@codedathleteexe)** 
+* 🅾 **[Instagram](https://www.instagram.com/faisalsplaybook/)** 
+* 🇮🇳 **[LinkedIn](www.linkedin.com/in/faisalsplaybook)** 
+* ꚠ **[TikTok](https://www.tiktok.com/@faisalsplaybook?is_from_webapp=1&sender_device=pc)** 
+* 𝕏 **[X (Twitter)](https://x.com/faisalsplaybook)** 
+* ▶ **[YouTube](https://www.youtube.com/@faisalsplaybook)** 
 
 ### Tech Stack & Skills
 * 💻 **Languages**: Dart (mainly)
