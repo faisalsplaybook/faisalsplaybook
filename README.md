@@ -19,7 +19,7 @@ I love building meaningful apps.
 </p>
 
 ### What I'm currently working on
-* 🎓 **Campus Marketplace** - My first portfolio project! A verified student Marketplaca App.
+
 
 ### Documenting my Journey on these platforms
 * 📸 **[Instagram](https://instagram.com/codedathleteexe)** 
