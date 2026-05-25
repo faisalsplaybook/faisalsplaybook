@@ -1,6 +1,11 @@
 # Hey, It's Faisal Hasan 👋
 
-Build -> Break -> Find why -> Fix -> Repeat
+I build apps by:
+
+Building -> Breaking -> Find why it broke -> Fixing -> Repeating
+
+I train, box, code, and make stories out of the process.  
+Love pizza & coffee. Understatement.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
@@ -19,7 +24,10 @@ Build -> Break -> Find why -> Fix -> Repeat
 </p>
 
 ### What I'm currently working on
-* 🫙 **Null**
+- Learning Flutter by building real apps instead of tutorial hunting
+- Getting better at app architecture, state management, local storage, and API integration
+- Building projects that solve real problems and are worthy of my portfolio
+- Building my personal brand through stories on the platforms below
 
 ### More me on these platforms
 * 🅾 **[Instagram](https://www.instagram.com/faisalsplaybook/)** 
@@ -28,10 +36,6 @@ Build -> Break -> Find why -> Fix -> Repeat
 * 𝕏 **[X (Twitter)](https://x.com/faisalsplaybook)** 
 * ▶ **[YouTube](https://www.youtube.com/@faisalsplaybook)** 
 
-### Tech Stack & Skills
-* 💻 **Languages**: Dart (mainly)
-* 🛠️ **Frameworks/Tools**: Flutter, Firebase, Supabase, Git, etc
-* ⚡ **IDE**: Antigravity
 
 ### "Fun" Facts
 * 🍕 I love pizza
