@@ -15,40 +15,29 @@ Love pizza & coffee. Understatement.
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
+### Current Projects
+* 📱 **[SplitFrens](https://github.com/faisalsplaybook/split_frens)** — A Flutter app to split expenses with friends
 
-### 🔥 GitHub Streak
-
+### GitHub Activity
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=faisalsplaybook&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://ghchart.rshah.org/0175C2/faisalsplaybook" alt="Faisal's GitHub Activity Graph" />
 </p>
 
-### 📊 GitHub Stats
+### What I'm currently working on
+- Learning Flutter by building real apps instead of tutorial hunting
+- Getting better at app architecture, state management, local storage, and API integration
+- Building projects that solve real problems and are worthy of my portfolio
+- Building my personal brand through stories on the platforms below
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalsplaybook&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
+### More me on these platforms
+* 🅾 ​**[Instagram](https://www.instagram.com/faisalsplaybook/)** 
+* 🇮🇳 **[LinkedIn](https://www.linkedin.com/in/faisalsplaybook)** 
+* ꚠ **[TikTok](https://www.tiktok.com/@faisalsplaybook?is_from_webapp=1&sender_device=pc)** 
+* 𝕏 **[X (Twitter)](https://x.com/faisalsplaybook)** 
+* ▶ **[YouTube](https://www.youtube.com/@faisalsplaybook)** 
 
-### 📈 Activity Graph
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalsplaybook&theme=github-compact&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-### 🚧 Current Projects
-* 📱 **SplitFrens** — A Flutter app to split expenses with friends
-
-### 🔭 What I'm currently working on
-* Learning Flutter by building real apps instead of tutorial hunting
-* Getting better at app architecture, state management, local storage, and API integration
-* Building projects that solve real problems and are worthy of my portfolio
-* Building my personal brand through stories on the platforms below
-
-### 🌐 More me on these platforms
-* [Instagram](https://www.instagram.com/faisalthejackeddev)
-* [LinkedIn](https://www.linkedin.com/in/faisal-hasan-dev)
-* [TikTok](https://www.tiktok.com/@faisalthejackeddev)
-* [X (Twitter)](https://x.com/faisaljackeddev)
-* [YouTube](https://www.youtube.com/@faisalthejackeddev)
+### "Fun" Facts
+* 🍕 I love pizza
+* ☕ I live on coffee
+* 📸 I make stories out of life
