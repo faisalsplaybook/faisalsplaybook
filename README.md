@@ -1,6 +1,7 @@
 # Hey, It's Faisal Hasan 👋
 
-Went from overthinking frameworks to f it, we build 
+Went from overthinking frameworks to "let's just build this"
+
 Love pizza & coffee. Understatement.
 
 <p align="left">
