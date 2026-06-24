@@ -16,12 +16,7 @@ Love pizza & coffee. Understatement.
 
 <table>
   <tr>
-    <td width="30%">
-      <a href="https://github.com/faisalsplaybook/split_frens">
-        <img src="assets/split_frens_screenshot.png" alt="SplitFrens Screenshot" width="100%">
-      </a>
-    </td>
-    <td width="70%">
+    <td>
       <h3><a href="https://github.com/faisalsplaybook/split_frens">💸 SplitFrens</a></h3>
       <p>A beautifully designed Flutter app to split expenses with friends for hangouts and trips.</p>
       <p><b>Key Features:</b> Equal splits, live currency conversion (Travel Mode), persistent local storage, and instant shareable summaries.</p>
