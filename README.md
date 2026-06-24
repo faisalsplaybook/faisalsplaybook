@@ -18,7 +18,7 @@ Love pizza & coffee. Understatement.
   <tr>
     <td width="30%">
       <a href="https://github.com/faisalsplaybook/split_frens">
-        <img src="https://raw.githubusercontent.com/faisalsplaybook/split_frens/main/docs/screenshots/03_hangout_details.png" alt="SplitFrens Screenshot" width="100%">
+        <img src="assets/split_frens_screenshot.png" alt="SplitFrens Screenshot" width="100%">
       </a>
     </td>
     <td width="70%">
