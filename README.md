@@ -20,21 +20,14 @@ Love pizza & coffee. Understatement.
   <img src="https://ghchart.rshah.org/0175C2/faisalsplaybook" alt="Faisal's GitHub Activity Graph" />
 </p>
 
-### What I'm currently working on
-- Learning Flutter by building real apps instead of tutorial hunting
-- Getting better at app architecture, state management, local storage, and API integration
-- Building projects that solve real problems and are worthy of my portfolio
+### What I'm passionate about
+- Learning to build apps that genuinely solve problems
+- Practicing the "Sweet Science" aka Boxing
 - Building my personal brand through stories on the platforms below
 
-### More me on these platforms
+### More of me here
 * 🅾 ​**[Instagram](https://www.instagram.com/faisalsplaybook/)** 
 * 🇮🇳 **[LinkedIn](https://www.linkedin.com/in/faisalsplaybook)** 
 * ꚠ **[TikTok](https://www.tiktok.com/@faisalsplaybook?is_from_webapp=1&sender_device=pc)** 
 * 𝕏 **[X (Twitter)](https://x.com/faisalsplaybook)** 
 * ▶ **[YouTube](https://www.youtube.com/@faisalsplaybook)** 
-
-
-### "Fun" Facts
-* 🍕 I love pizza
-* ☕ I live on coffee
-* 📸 I make stories out of life
