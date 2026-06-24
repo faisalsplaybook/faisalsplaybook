@@ -1,10 +1,6 @@
 # Hey, It's Faisal Hasan 👋
 
-I build apps by:
-
-Building -> Breaking -> Find why it broke -> Fixing -> Repeating
-
-I train, box, code, and make stories out of the process.  
+Went from overthinking frameworks to f it, we build 
 Love pizza & coffee. Understatement.
 
 <p align="left">
