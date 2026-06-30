@@ -8,13 +8,24 @@ Love pizza & coffee. Understatement.
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Riverpod-%231A237E.svg?style=flat-square&logoColor=white" alt="Riverpod"/>
+  <img src="https://img.shields.io/badge/Bloc-%23653296.svg?style=flat-square&logoColor=white" alt="Bloc"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Hive-%23FFCA28.svg?style=flat-square&logoColor=black" alt="Hive"/>
+  <img src="https://img.shields.io/badge/Dio-%2302569B.svg?style=flat-square&logoColor=white" alt="Dio"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ### Current Projects
 
 <table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/faisalsplaybook/kidekhba">🎬 KiDekhba</a></h3>
+      <p>A collaborative Flutter app for tracking movies & shows with friends — turns the group chat into a shared, votable watchlist.</p>
+      <p><b>Key Features:</b> Shared watchlists with live voting, Firebase Auth with full password-reset flow, real-time sync via Firestore, push notifications (FCM) across all app states, and TMDB-powered discovery & search.</p>
+      <p><b>Tech Stack:</b> Flutter, Dart, Riverpod, Cubit (flutter_bloc), GoRouter, Firebase (Auth, Firestore, FCM), Dio</p>
+    </td>
+  </tr>
   <tr>
     <td>
       <h3><a href="https://github.com/faisalsplaybook/split_frens">💸 SplitFrens</a></h3>
