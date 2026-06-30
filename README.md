@@ -26,6 +26,9 @@ Love pizza & coffee. Understatement.
       <p><b>Tech Stack:</b> Flutter, Dart, Riverpod, Cubit (flutter_bloc), GoRouter, Firebase (Auth, Firestore, FCM), Dio</p>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td>
       <h3><a href="https://github.com/faisalsplaybook/split_frens">💸 SplitFrens</a></h3>
