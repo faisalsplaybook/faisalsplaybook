@@ -2,7 +2,7 @@
 
 Went from stressing over frameworks to "let's just start building and see where it goes"
 
-Love pizza & coffee. Understatement.
+Love pizza & coffee (understatement)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
@@ -13,6 +13,7 @@ Love pizza & coffee. Understatement.
   <img src="https://img.shields.io/badge/Hive-%23FFCA28.svg?style=flat-square&logoColor=black" alt="Hive"/>
   <img src="https://img.shields.io/badge/Dio-%2302569B.svg?style=flat-square&logoColor=white" alt="Dio"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Claude-%23D97757.svg?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
 </p>
 
 ### Current Projects
@@ -41,7 +42,7 @@ Love pizza & coffee. Understatement.
 
 ### GitHub Activity
 <p align="left">
-  <img src="https://ghchart.rshah.org/0175C2/faisalsplaybook" alt="Faisal's GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/0175C2/faisalhasanmahin" alt="Faisal's GitHub Activity Graph" />
 </p>
 
 ### What I'm passionate about
@@ -52,9 +53,9 @@ Love pizza & coffee. Understatement.
 ### More of me here
 
 <p align="left">
-<a href="https://www.instagram.com/faisalsplaybook/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/faisalsplaybook"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.tiktok.com/@faisalsplaybook?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-<a href="https://x.com/faisalsplaybook"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-<a href="https://www.youtube.com/@faisalsplaybook"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.instagram.com/fhmboxin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/faisalhasanmahin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.tiktok.com/@fhmboxin?lang=en"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+<a href="https://x.com/fhmboxin"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+<a href="https://www.youtube.com/@fhmboxin"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
